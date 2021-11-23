@@ -1,69 +1,49 @@
-## Requirements💭
+# REQUIREMENTS 💭
 
+## INTRODUCTION
+* ***This game is very popular and is fairly simple by itself. It is actually a two player game. In this game, there is a board with n x n squares. In our game, it is 3 x 3 squares.*** 
 
-## Introduction
+### FEATURES 
+* ***Play with 'X' or 'O'***
+* ***Either player or computer wins the game.***
+* ***Either player or computer Lose the game.***
+### RESEARCH
+***Features and Benefits of the Tic-Tac-Toe Game It's often used as a pedagogical tool to teach ideas like good sportsmanship and the branch of artificial intelligence that deals with game tree searching. On this space, developing a computer algorithm to play faultless tic-tac-toe or enumerating the 765 basically different positions (state space complexity) or the 26,830 possible games up to rotations and reflections (game tree complexity) is simple. Tic-tac-toe is a pointless game since it always ends in a draw if both players play optimally.***
 
-*This miniproject is developed in C Programming Language.It helps the users to keep the daily record of their students attendance, marks, etc..*
-
-*It's just like the records which we keep in our registers.*
-
-*In this Miniproject you can add,edit,delete and view the records.*
-
-*It uses files as database to perform file handling operations such as add, search, modify and delete records to manage students’ records. In this project, you can also generate mark-sheet for students.*
-
-
-## Research
-*This is a password protected student management system to increase the security standards for the same.*
-
-
-## Cost and Features and Timeline
-*1. Old System :- There was no password protected student management system.*
-
-*2. New System :- Password protected student management system is built.*
-
-## SWOT ANALYSIS
-*SWOT Analysis is a simple tool which is used to analyze what are strength,weakness,opportunities and threats of the system.*
-   
-*Strength- You can view the records easily without remembering them.*
-
-*Weakness- Maybe related to Redudancy,inconsistency.*
-
-*Opportunities- Availability of a large number of records.*
-
-*Threat Analysis- Threats maybe related to different marketing features.*
-
-## 4W's and 1'H :-
-## What
-
-*Helps the user to easily add their important add, search, modify and delete records to manage students’ records.*
-
-## Where
-
-*It can be accessed anywhere if you carry your laptop.*
-
-## When
-
-*It has to be deployed 25th of November 2021.*
-
-## Why
-
-*To improve my Coding skills.*
-
-## How
-*It is developed using C Programming language.*
-
-## Detail Requirements:-
+# SWOT ANALYSIS 💭
+## STRENGTHS
+* ***The game can assist the player in predicting the outcome of another player's action.***
+* ***It aids in the formulation of the strategy.***
+* ***It aids in the development of logic and problem-solving abilities.***
+## WEAKNESS
+* ***Connection lost*** 
+## OPPORTUNITIES
+* ***To improve your computer gaming knowledge.***
+## THREATS
+### VIRUS THREAT
+* ***Virus is nothing but a program which disrupts the normal functioning of your computer systems. Computers attached to internet are more prone to virus attacks and they can end up into crashing your whole hard disk, causing you considerable headache.***
+# 4W's and 1H 💭
+* WHO   -***Everybody can play this game.***
+* WHAT  -***This is a purely leisure game. Because there are so many different outcomes in this game.***
+* WHEN  -***This game can be played if you're bored or want to learn more about the game's methods, etc.***
+* WHERE -***A simple tic tac toe game is accessible on a number of websites. In addition, corporations and organisations use it.***
+## 1H 💭
+* HOW -***Blocks your opponent from winning as you try to win.***
+# DETAIL REQUIRMENTS
 ## HIGH LEVEL REQUIRMENTS
-| HLR1 |  |
+| HLR1 | Users can use a web browser to obtain the information |
 --- | --- |
-HLR2 | |
-HLR3 | |
-HLR4 | |
-HLR5 | |
-HLR6 | |
-HLR7 | |
-
+HLR2 | From the landing page, the user should choose the game's difficulty level and begin playing|
+HLR3 | When a user moves, the game page allows them to move|
+HLR4 | The user can see the opponent's movements in real time on the game page|
+HLR5 | The user can pick up where they left off in a game that isn't yet finished|
+HLR6 | When one player gets three symbols in a row, the game should be over|
+HLR7 | After the game, the user sees the results|
 ## LOW LEVEL REQUIRMENTS
-| LLR1 |  |
+| LLR1 | Name of the player |
 --- | --- |
-LLR2 |  |
+LLR2 | Players personal details like gender,contact number|
+
+# HIGH LEVEL :![High level]![image](https://user-images.githubusercontent.com/94536521/143070293-70adb6f9-516c-472c-b11c-b25ec8ec47ee.png)
+
+# LOW LEVEL  :![Lowlevel design]![image](https://user-images.githubusercontent.com/94536521/143070068-c429c7e4-f8d7-4717-a981-fddb680bff58.png)
